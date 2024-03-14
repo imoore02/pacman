@@ -3,7 +3,7 @@ A version of pacman with modified features.
 
 ## Usage
 
-Clone this git repository and run the executable:
+Clone this git repository, run 'make' and run the executable:
 ```bash
 ./pacwoman
 ```
